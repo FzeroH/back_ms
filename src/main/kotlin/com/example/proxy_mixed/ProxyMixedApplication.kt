@@ -28,6 +28,6 @@ class ProxyMixedApplication() {
 				}
 			}
 		}
-		val CURRATE_KEY = "b97d2a4b56b2c650928004336ecec291"
+
 	}
 }
